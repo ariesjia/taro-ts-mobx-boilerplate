@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ariesjia/taro-ts-mobx-boilerplate.svg?branch=master)](https://travis-ci.org/ariesjia/taro-ts-mobx-boilerplate)
+
 ## USEAGE
 ```sh
 1. git clone git@github.com:ariesjia/taro-ts-mobx-boilerplate.git
