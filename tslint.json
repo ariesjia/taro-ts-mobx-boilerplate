@@ -1,0 +1,48 @@
+{
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint-customization",
+    "tslint:latest",
+    "tslint-react",
+    "tslint-config-prettier"
+  ],
+  "jsRules": {
+    "max-line-length": {
+      "options": [120]
+    },
+    "object-literal-sort-keys": false,
+    "no-console": false
+  },
+  "rules": {
+    "no-any": true,
+    "no-duplicate-imports": true,
+    "interface-name": false,
+    "trailing-comma": [true, {"multiline": "always", "singleline": "never"}],
+    "import-spacing": true,
+    "max-line-length": [true, 150],
+    "quotemark": false,
+    "semicolon": [true, "never"],
+    "only-arrow-functions": false,
+    "variable-name": false,
+    "object-literal-sort-keys": false,
+    "no-console": false,
+    "no-empty": false,
+    "no-empty-interface": false,
+    "no-object-literal-type-assertion": false,
+    "jsx-no-multiline-js": false,
+    "no-unused-expression": false,
+    "space-before-function-paren": [true, {"anonymous": "always", "named": "never", "asyncArrow": "always"}],
+    "member-access": [true, "no-public"],
+    "no-submodule-imports": false,
+    "no-implicit-dependencies": false,
+    "one-variable-per-declaration": false,
+    "prefer-object-spread": false
+  },
+  "linterOptions": {
+    "exclude": [
+      "node_modules",
+      "**/*.spec.ts",
+      "src/typings/*.ts"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Plus" fill="#000000" fill-rule="nonzero">
+            <polygon id="Shape" points="0.230871094 269.057365 0.230871094 230.624565 499.85841 230.624565 499.85841 269.057365"></polygon>
+            <polygon id="Shape" points="269.26104 499.654734 230.828241 499.654734 230.828241 0.0271958705 269.26104 0.0271958705"></polygon>
+        </g>
+    </g>
+</svg>

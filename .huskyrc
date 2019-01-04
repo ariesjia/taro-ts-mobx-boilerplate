@@ -1,0 +1,6 @@
+{
+  "hooks": {
+    "pre-commit": "lint-staged && yarn unit",
+    "post-commit": "git update-index --again"
+  }
+}

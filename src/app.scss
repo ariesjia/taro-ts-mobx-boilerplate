@@ -1,0 +1,13 @@
+@import "./styles/index";
+
+page {
+  height: 1px;
+  min-height: 100%;
+  display: block;
+  font-size: getpx(14px);
+  color: $text-color;
+  overflow-x: hidden;
+  font-weight: 400;
+  font-family: -apple-system-font, "PingFangSC", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}

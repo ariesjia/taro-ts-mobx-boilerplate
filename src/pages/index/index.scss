@@ -1,0 +1,17 @@
+@import "../../styles/index";
+
+button {
+  margin: getpx(10px) 0;
+}
+
+.text {
+  padding: getpx(10px) 0;
+  text-align: center;
+  font-size: getpx(20px);
+
+  .icon {
+    color: $warning-color;
+    margin-right: getpx(10px);
+    font-size: getpx(16px);
+  }
+}

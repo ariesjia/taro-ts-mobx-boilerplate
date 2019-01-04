@@ -1,0 +1,14 @@
+dist/
+.temp/
+.rn_temp/
+node_modules/
+.DS_Store
+.idea
+yarn-error.log
+npm-error.log
+
+src/styles/generate-icon.scss
+test/unit/coverage/
+test-report.xml
+
+

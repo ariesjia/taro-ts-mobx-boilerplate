@@ -1,0 +1,34 @@
+{
+	"miniprogramRoot": "dist/",
+	"projectname": "taro-boilerplate",
+	"description": "",
+	"appid": "wx048f3bfdc27dd93b",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1
+		}
+	}
+}
